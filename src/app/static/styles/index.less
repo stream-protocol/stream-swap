@@ -1,0 +1,71 @@
+.Streamswap-widget {
+  margin-left: -16px !important;
+  margin-right: -16px !important;
+  margin-top: -16px;
+  .Streamswap-widget-col {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.caption {
+  font-size: 12px;
+}
+.card-swap {
+  overflow: hidden;
+  // height: 338px;
+}
+
+.card-child {
+  border-radius: 8px !important;
+  box-shadow: unset !important;
+}
+.confirm-info {
+  &:extend(.card-child);
+}
+
+.card-input {
+  border: 1px solid;
+}
+.active {
+  border-color: #141e30 !important;
+}
+
+.mint-select {
+  padding: 3px 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.swap-setting {
+  padding: 24px 24px 0;
+  background: #fff;
+}
+.swap-bid {
+  border-radius: 0 0 16px 16px;
+  background: #fff;
+}
+.btn-switch-type {
+  border: 2.5px solid !important;
+  background: #fff !important;
+  border-color: #f4f4f5 !important;
+}
+.rate-btn {
+  border-radius: 2px !important;
+  height: 8px !important;
+  width: 32px !important;
+}
+
+@media (max-width: 992px) {
+  .chart-radio-btn {
+    .stream-radio-button-wrapper {
+      border: none !important;
+      padding: 0 4px !important;
+      box-shadow: none !important;
+      &::before,
+      &::after {
+        display: none !important;
+      }
+    }
+  }
+}

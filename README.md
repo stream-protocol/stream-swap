@@ -15,4 +15,5 @@ Liquidity Protocol on Solana.
 - Better UI/UX design
 - Brand kit & better illustrations
 - Stream Swap Documentation
+
 - Stream Registry implementation https://github.com/stream-protocol/stream-reg.git
