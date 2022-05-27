@@ -16,7 +16,7 @@ Transfer costs and exchange fees should be collected for the Stream Protocol. LL
 - Cross-Chain feature / functionalities (BNC Chain, Solana, Near, Avalanche, Ethereum).
 - Stream Swap Smart Contract development (Solana, SPL) etc.
 - Liquidity Pool Integration
-- Stream Token implementation / exchange feature. +0,00025 (Stream Swap fee) + 0,00025 Solana txt fee = 0,0005 SOL 
+- Stream Token implementation / exchange feature. 0,00025 Solana (blockchain) txt fee + Stream Swap txt fee = 0,00025 (50% fee). Total approx. 0,0005 - 0,0010 SOL 
 - Factory smart contract (fees) etc.
 - Collect transfer costs and exchange fees
 - Tax & Burning mechanism
