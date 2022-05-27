@@ -9,7 +9,7 @@ Liquidity Protocol on Solana.
 
 ## Project description: 
 
-Transfer costs and exchange fees should be collected for the Stream Protocol. LLC (company) or/ and Partner-managed (charities) wallet. In addition, Stream Swap should be able to donate funds to various charities.
+Transfer costs and exchange fees should be collected for the Stream Protocol. LLC (company). In addition, Stream Swap should be able to donate funds to various charities or partners wallet.
 
 ## TODO
 
