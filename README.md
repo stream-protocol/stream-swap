@@ -20,7 +20,7 @@ Transfer costs and exchange fees should be collected for the Stream Protocol. LL
 - Collect transfer costs and exchange fees
 - Tax & Burning mechanism
 - Stream Token implementation
-- Application Store features
+- Farm, Stake and Application Store features
 - Stream Protocol UI/UX & Brand design
 - Product illustrations & icons
 - Develop. Stream Swap Forum / Documentation
