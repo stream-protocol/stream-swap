@@ -17,7 +17,7 @@ Transfer costs and exchange fees should be collected for the Stream Protocol. LL
 - Pitch deck / Product Presentation development & craphic design
 - Stream Swap Smart Contract development (Solana, SPL) etc.
 - Liquidity Pool 
-- NFT marketplace feature
+- NFT marketplace feature (Stream Gold NFT - Tokenization on Physical Gold)
 - Stream Pay implementation
 - Stream Token implementation / exchange feature. 0,00025 Solana (blockchain) txt fee + Stream Swap txt fee = 0,00025 (50% fee). Total approx. 0,0005 - 0,0010 SOL + 24% tax fee
 - Factory smart contract (fees) etc.
