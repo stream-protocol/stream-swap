@@ -13,6 +13,7 @@ Transfer costs and exchange fees should be collected for the Stream Protocol. LL
 
 ## TODO
 
+- Better UI/UX design
 - Cross-Chain feature / functionalities (BNC Chain, Solana, Near, Avalanche, Ethereum).
 - Stream Swap Smart Contract development (Solana, SPL) etc.
 - Liquidity Pool Integration
@@ -22,6 +23,6 @@ Transfer costs and exchange fees should be collected for the Stream Protocol. LL
 - Stream Token implementation
 - Farm, Stake and Application Store features
 - Stream Protocol UI/UX & Brand design
-- Product illustrations & icons
+- Brand, product illustrations & icons
 - Develop. Stream Swap Forum / Documentation
 - Stream Registry development https://github.com/stream-protocol/stream-reg.git
