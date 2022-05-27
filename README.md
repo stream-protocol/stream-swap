@@ -6,14 +6,22 @@ Liquidity Protocol on Solana.
 
 [https://docs.streamprotocol.org/swap/](https://docs.streamprotocol.org/swap)
 
+
+## Project description: 
+
+Transfer costs and exchange fees should be collected for the Stream Protocol. LLC (company) or/ and Partner-managed (charities) wallet. In addition, Stream Swap should be able to donate funds to various charities.
+
 ## TODO
 
-- Stream Swap Smart Contracts (SPL)
-- Functions & Liquidity Pool Integration
+- Cross-Chain feature / functionalities (BNC Chain, Solana, Near, Avalanche, Ethereum).
+- Stream Swap Smart Contract development (Solana, SPL) etc.
+- Liquidity Pool Integration
+- Factory smart contract (fees) etc.
+- Collect transfer costs and exchange fees
+- Tax & Burning mechanism
 - Stream Token implementation
 - Application Store features
-- Better UI/UX design
-- Brand kit & better illustrations
-- Stream Swap Documentation
-
-- Stream Registry implementation https://github.com/stream-protocol/stream-reg.git
+- Stream Protocol UI/UX & Brand design
+- Product illustrations & icons
+- Develop. Stream Swap Forum / Documentation
+- Stream Registry development https://github.com/stream-protocol/stream-reg.git
